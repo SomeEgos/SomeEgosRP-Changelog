@@ -1,2 +1,2 @@
-# Changelog
-Public tracker for changes made on SomeEgos
+# inDev
+- Server is currently under development
