@@ -1,5 +1,6 @@
 # SomeEgos 0.5
 **Illegal Jobs Update 0.5**
+
 *Some features are still a work-in-progress. Send bug reports to Exlitee#1111 or SodaPortal#0001 on Discord.*
 - Bobcat Robbery
 - Store Robbery
