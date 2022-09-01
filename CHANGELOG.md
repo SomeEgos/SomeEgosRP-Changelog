@@ -1,4 +1,4 @@
-# SomeEgos 0.5
+## SomeEgos RP 0.5
 **Illegal Jobs Update 0.5**
 
 *Some features are still a work-in-progress. Send bug reports to Exlitee#1111 or SodaPortal#0001 on Discord.*
@@ -19,7 +19,7 @@
 - Item System *unimplemented*
 - Core Update *unimplemented*
 
-# SomeEgos 0.4
+## SomeEgos RP 0.4
 **Civ Jobs Update 0.4**
 - Various New Jobs & Activities
 - Improved Traditional Jobs & Activities
@@ -27,7 +27,7 @@
 - City Hall, DMV, and Rentals
 - Bug fixes & improvements!
 
-# SomeEgos 0.3
+## SomeEgos RP 0.3
 **Quality of Life Update 0.3**
 - Network Optimizations and Updates
 - Controller Support
